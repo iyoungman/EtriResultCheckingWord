@@ -1,0 +1,9 @@
+c:\users\hsl95\onedrive\documents\visual studio 2013\Projects\EtriResultReadError\EtriResultReadError\bin\Debug\EtriResultReadError.exe.config
+c:\users\hsl95\onedrive\documents\visual studio 2013\Projects\EtriResultReadError\EtriResultReadError\obj\Debug\EtriResultReadError.csprojResolveAssemblyReference.cache
+c:\users\hsl95\onedrive\documents\visual studio 2013\Projects\EtriResultReadError\EtriResultReadError\obj\Debug\EtriResultReadError.Properties.Resources.resources
+c:\users\hsl95\onedrive\documents\visual studio 2013\Projects\EtriResultReadError\EtriResultReadError\obj\Debug\EtriResultReadError.csproj.GenerateResource.Cache
+c:\users\hsl95\onedrive\documents\visual studio 2013\Projects\EtriResultReadError\EtriResultReadError\bin\Debug\EtriResultReadError.exe
+c:\users\hsl95\onedrive\documents\visual studio 2013\Projects\EtriResultReadError\EtriResultReadError\bin\Debug\EtriResultReadError.pdb
+c:\users\hsl95\onedrive\documents\visual studio 2013\Projects\EtriResultReadError\EtriResultReadError\obj\Debug\EtriResultReadError.exe
+c:\users\hsl95\onedrive\documents\visual studio 2013\Projects\EtriResultReadError\EtriResultReadError\obj\Debug\EtriResultReadError.pdb
+c:\users\hsl95\onedrive\documents\visual studio 2013\Projects\EtriResultReadError\EtriResultReadError\obj\Debug\EtriResultReadError.Form1.resources
